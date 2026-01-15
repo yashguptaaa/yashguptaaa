@@ -59,15 +59,23 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yashguptaaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashguptaaa&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashguptaaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
+<img src="https://github-readme-stats.vercel.app/api?username=yashguptaaa&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashguptaaa&theme=radical&hide_border=false" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashguptaaa&layout=compact&theme=radical&hide_border=false&langs_count=8" alt="Top Languages" width="48%" />
 </div>
 
+---
+
+<!-- Alternative Stats (uncomment if above doesn't work) -->
+<!-- 
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=yashguptaaa&show_icons=true&theme=radical)](https://github.com/yashguptaaa)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yashguptaaa&theme=radical)](https://github.com/yashguptaaa)
+
+</div>
+-->
 ---
 
 ## 🏆 Featured Projects
