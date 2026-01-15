@@ -18,7 +18,7 @@
 - 💻 Working with **microservices architecture** and **distributed systems**
 - 🌱 Exploring **system design patterns** and **performance optimization**
 - 💬 Ask me about **RESTful APIs, PostgreSQL, AWS, and backend architectures**
-- 📬 Reach me at: **yash@example.com**
+- 📬 Reach me at: **ygupta9414@gmail.com**
 - ⚡ Fun fact: I love optimizing database queries and reducing API response times!
 
 ---
