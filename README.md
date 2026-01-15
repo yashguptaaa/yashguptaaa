@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Yash Gupta
+A passionate backend developer from India 🇮🇳
 
-<!--
-**yashguptaaa/yashguptaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=yashguptaaa)
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🧠 Backend-focused developer
+- ⚙️ Go | Node.js | AWS | PostgreSQL | DynamoDB
+- 📬 Reach me at: **yash@example.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+![Skills](https://skillicons.dev/icons?i=go,nodejs,express,ts,postgres,dynamodb,aws,docker,git,redis,linux)
+
+---
+
+### 🔗 Connect with me
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yash-gupta-81b45b235/)
